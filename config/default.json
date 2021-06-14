@@ -1,5 +1,6 @@
 {
   "mongoURI" : "mongodb://localhost:27017/dev_contact_keeper",
   "jwtSecret" : "srtsecrettoken",
-
+  "githubClientId": "a5155da6ab1b48c3d717",
+  "githubSecret": "4270dfd3785bdcfb108837c6804b0a4fd4c2b2b4"
 }
